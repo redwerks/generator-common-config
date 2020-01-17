@@ -13,7 +13,7 @@ npm install -g @redwerks/generator-common-config
 Then generate your new project:
 
 ```bash
-yo @redwerks/generator-common-config
+yo @redwerks/common-config
 ```
 
 ## Getting To Know Yeoman
@@ -25,7 +25,7 @@ yo @redwerks/generator-common-config
 
 ## License
 
-ISC © [Daniel Friesen]()
+ISC © [Redwerks](https://redwerks.org/)
 
 
 [npm-image]: https://badge.fury.io/js/@redwerks/generator-common-config.svg
