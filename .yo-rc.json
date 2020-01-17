@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Daniel Friesen",
+      "authorEmail": "d@danf.ca",
+      "authorUrl": ""
+    }
+  }
+}
